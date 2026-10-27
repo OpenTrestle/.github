@@ -1,5 +1,7 @@
 # OpenTrestle
 
+<img src="https://raw.githubusercontent.com/OpenTrestle/.github/main/assets/opentrestle-primary-colosseum-418.png" alt="OpenTrestle approved Colosseum icon" width="140" height="140" />
+
 **Practical technology. Thoughtful engineering. Built for lasting ownership.**
 
 OpenTrestle is an emerging technology initiative focused on AI systems, software, automation, and infrastructure. We are building toward technology that people and organizations can understand, operate, and control.
