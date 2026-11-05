@@ -1,6 +1,6 @@
 # OpenTrestle
 
-<img src="https://raw.githubusercontent.com/OpenTrestle/.github/main/assets/opentrestle-primary-colosseum-418.png](https://avatars.githubusercontent.com/u/348597243" alt="OpenTrestle approved Colosseum icon" width="140" height="140" />
+<img src="https://raw.githubusercontent.com/OpenTrestle/.github/main/assets/opentrestle-primary-colosseum-418.png" alt="OpenTrestle approved Colosseum icon" width="140" height="140" />
 
 **Practical technology. Thoughtful engineering. Built for lasting ownership.**
 
