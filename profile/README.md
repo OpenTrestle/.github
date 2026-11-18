@@ -1,6 +1,6 @@
 # OpenTrestle
 
-<img src="https://i.imgur.com/qa97N4n.png" alt="OpenTrestle" width="140" height="140" />
+<img src="https://raw.githubusercontent.com/OpenTrestle/.github/main/assets/opentrestle-hybrid-bridge-v2.svg" alt="OpenTrestle hybrid trestle bridge emblem" width="220" />
 
 **Practical technology. Thoughtful engineering. Built for lasting ownership.**
 
@@ -16,6 +16,8 @@ OpenTrestle is an emerging technology initiative focused on AI systems, software
 ## Related work
 
 **SteadLamp** is a distinct Home, Life, and Business AI assistant and software product focused on durable context, permissions, and user control. Its architecture is designed to support replaceable AI providers rather than depend on a single infrastructure vendor.
+
+**DeskSteady** is OpenTrestle’s workplace software experience, designed to make everyday work more organized and manageable. Its separate identity uses the earlier desk-shaped mark.
 
 **OpenTrestle Node** is an early-stage concept for packaged AI infrastructure and deployment options.
 
